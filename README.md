@@ -12,8 +12,7 @@
   Drop a CloudTrail JSON file → see what matters. No server, no dependencies, no data leaving your machine.
 </p>
 
----
-
+----
 ## ✨ Features
 
 | Feature | Description |
@@ -27,6 +26,13 @@
 | 📋 **Detail Modal** | Click a row to see the full raw JSON with syntax highlighting |
 | 📈 **Summary Stats** | Total events, unique event names, unique IPs, time range |
 | 🎨 **Dark Glassmorphism UI** | Modern dark theme with smooth animations |
+
+![CloudTrail Viewer Screenshot](screenshots/cloudtrail-viewer1.png)
+<br>
+<br>
+<br>
+![CloudTrail Viewer Screenshot](screenshots/cloudtrail-viewer2.png)
+
 
 ## 🚀 Quick Start
 
